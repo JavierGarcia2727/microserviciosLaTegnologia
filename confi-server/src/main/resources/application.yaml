@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: eureka2
+          default-label: multiple-instances3
           uri: https://github.com/JavierGarcia2727/microserviciosLaTegnologia
           search-paths: config-data
   application:
