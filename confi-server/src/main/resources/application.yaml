@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: multiple-instances3
+          default-label: gateway
           uri: https://github.com/JavierGarcia2727/microserviciosLaTegnologia
           search-paths: config-data
   application:
